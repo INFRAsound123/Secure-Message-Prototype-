@@ -1,5 +1,5 @@
 # Secure-Message-Prototype-
-Project for ITIS 6200
+Please run both Alice and Bobs Code at the same time and enter in any inputs required quick for the code to run smoothly
 
 ---
 
