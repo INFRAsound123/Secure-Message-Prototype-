@@ -19,7 +19,8 @@ Please run both Alice and Bobs Code at the same time and enter in any inputs req
    Each party verifies the other's message and DH value signatures using the public key.
 
 5. **Diffie–Hellman Key Exchange**  
-   The shared secret is computed:
+   The shared secret is computed: Alice: (B^a mod p)
+                                  Bob: (A^b mod p)
 
 6. **Key Derivation Function (KDF)**  
 The shared secret is iteratively hashed to produce the final **session key**.
